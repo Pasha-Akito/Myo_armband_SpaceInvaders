@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/__Scenes/SpaceInvaders Home.unity
+    guid: 1844a9f5ae8c8c045b528ecf66db8445
+  - enabled: 1
+    path: Assets/__Scenes/SpaceInvaders.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/__Scenes/SpaceInvaders Death.unity
+    guid: 7e1a5a3d8859c9545af2acf976ae6253
+  - enabled: 0
+    path: Assets/__Scenes/SpaceInvaders End.unity
+    guid: 0b71a7eef3aa4704884a529f1e20748d
+  m_configObjects: {}
